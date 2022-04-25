@@ -1,7 +1,8 @@
 ---
 roles:
   - name: elliotweiser.osx-command-line-tools
-  - name: raflwafl.dotfiles
+  - src: https://github.com/bennojoy/nginx
+
 
 collections:
   - name: geerlingguy.mac
