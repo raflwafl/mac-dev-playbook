@@ -1,7 +1,7 @@
 ---
 roles:
   - name: elliotweiser.osx-command-line-tools
-  - src: https://github.com/bennojoy/nginx
+  - src: https://github.com/raflwafl/dotfiles
 
 
 collections:
