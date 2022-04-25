@@ -4,5 +4,5 @@ roles:
   - src: https://github.com/raflwafl/dotfiles
 
 
-collections:
-  - name: geerlingguy.mac
+# collections:
+#   - name: geerlingguy.mac
