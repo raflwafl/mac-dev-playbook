@@ -45,7 +45,6 @@ dotfiles_files:
   - .gitignore
   - .gitconfig
   - .inputrc
-  - .osx
   - .vimrc
 
 homebrew_installed_packages:
